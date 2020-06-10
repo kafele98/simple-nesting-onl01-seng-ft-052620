@@ -16,7 +16,7 @@ def hopper
         }
      }
 
-  return programmer_hash["grace_hopper"]["known_for", "languages"]
+  puts programmer_hash["grace_hopper"]["known_for", "languages"]
 end
  
  
